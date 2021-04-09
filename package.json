@@ -1,0 +1,22 @@
+{
+  "name": "oracle-interview-preparation",
+  "version": "1.0.0",
+  "description": "Set of resources and execises for Oracle Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorGreco/oracle-interview-preparation.git"
+  },
+  "author": "Victor Greco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VictorGreco/oracle-interview-preparation/issues"
+  },
+  "homepage": "https://github.com/VictorGreco/oracle-interview-preparation#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
